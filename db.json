@@ -19,5 +19,5 @@
   },
   {"id":2,"name":"Text3","address":{"city":"city3","siteadr":"no site","phonenum":"+7 (999) 999-99-99"}},
   {"id":3,"name":"Text4","address":{"city":"city4","siteadr":"no site","phonenum":"+7 (999) 999-99-99"}},
-  {"id":4,"name":"Text5","address":{"city":"city5","siteadr":"no site","phonenum":"+7 (999) 999-99-99"}},
+  {"id":4,"name":"Text5","address":{"city":"city5","siteadr":"no site","phonenum":"+7 (999) 999-99-99"}}
   ]
